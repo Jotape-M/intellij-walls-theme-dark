@@ -1,0 +1,21 @@
+{
+  "name": "Walls-theme-dark",
+  "author": "YourCompany",
+  "dark": true,
+
+  "colors": {},
+
+  "ui": {
+    "*": {
+      "background": "#191919",
+      "selectionBackground": "#886bf028",
+      "inactiveBackground": "#191919"
+    },
+    "ActionButton": {
+      "hoverBackground": "#886bf028",
+      "hoverBorderColor": "#886bf0c1",
+      "pressedBackground": "#886bf0c1",
+      "pressedBorderColor": "#886bf028"
+    }
+  }
+}
